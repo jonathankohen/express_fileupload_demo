@@ -4,12 +4,12 @@ Uploads any type of file into app directory. Displays jpegs.
 
 ## Installation
 
-### `npm install`
+`npm install`
 
-### `cd client`
+`cd client`
 
-### `npm install`
+`npm install`
 
-### `cd ..`
+`cd ..`
 
-### `npm run dev`
+`npm run dev`
